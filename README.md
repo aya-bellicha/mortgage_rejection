@@ -1,2 +1,2 @@
 # mortgage_rejection
-compare predictive models of mortgage rejections
+Predict mortgage application rejections
